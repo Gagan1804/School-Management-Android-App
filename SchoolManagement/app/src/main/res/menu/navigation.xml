@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_Teachers"
+        android:icon="@drawable/teacher"
+        android:title="@string/title_Teachers" />
+
+    <item
+        android:id="@+id/navigation_Students"
+        android:icon="@drawable/teacher"
+        android:title="@string/title_Students" />
+
+    <item
+        android:id="@+id/navigation_Parents"
+        android:icon="@drawable/teacher"
+        android:title="@string/title_Parents" />
+
+</menu>
